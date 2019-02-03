@@ -1,0 +1,5 @@
+**/node_modules
+**/package-lock.json
+elasticsearch-util/backup/*
+elasticsearch-util/esdata/*
+elasticsearch-util/data/*
